@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1639431352 source:c:\users\lisan\onedrive\documentos\code blocks\tecno_phone\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"Class.h"
+	"Funciones.h"
+	"SubMenus.h"
+	"SSmenu.h"
+
+1645063872 c:\users\lisan\onedrive\documentos\code blocks\tecno_phone\rlutil.h
+	<windows.h>
+
+1645050444 c:\users\lisan\onedrive\documentos\code blocks\tecno_phone\class.h
+
+1645063872 c:\users\lisan\onedrive\documentos\code blocks\tecno_phone\funciones.h
+
+1645062299 c:\users\lisan\onedrive\documentos\code blocks\tecno_phone\submenus.h
+	"SSmenu.h"
+
+1645063872 c:\users\lisan\onedrive\documentos\code blocks\tecno_phone\ssmenu.h
+
